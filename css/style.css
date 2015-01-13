@@ -1,0 +1,17 @@
+body {
+    font-family: 'Cutive Mono';
+	font-size: 18px;
+	margin: 0 0 100px;
+}
+
+.breadcrumb {
+	margin-bottom: 50px;
+}
+
+.page ol {
+	margin-left: 40px;
+}
+
+iframe {
+	margin: 50px 0 0;
+}
