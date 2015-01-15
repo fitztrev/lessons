@@ -15,3 +15,8 @@ body {
 iframe {
 	margin: 50px 0 0;
 }
+
+#slides p,
+#slides h2 {
+	margin: 500px 0;
+}
