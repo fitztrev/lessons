@@ -4,10 +4,13 @@ layout: default
 
 <ol class="breadcrumb">
 	<li><a href="/">Home</a></li>
-	<li><a href="/">Arduino</a></li>
 	<li class="active">{{ page.title }}</li>
 </ol>
 
 <div class="page">
 	{{ content }}
+
+	{%if page.circuit %}
+		<iframe width="100%" height="800" src="{{ page.circuit }}/embed#breadboard" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+	{%endif%}
 </div>
