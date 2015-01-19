@@ -2,7 +2,7 @@
 layout: page
 title: Persistence of Vision
 permalink: /persistence-of-vision/
-order: 8
+order: 0
 circuit: 
 ---
 
