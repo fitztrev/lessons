@@ -19,5 +19,7 @@ void loop() {
 /*
 Exercises:
 Change delay
+Another LED
 Change pattern of blinks (blink-blink-wait, blink-blink-wait)
 */
+
