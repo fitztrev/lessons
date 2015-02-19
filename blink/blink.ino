@@ -1,5 +1,4 @@
-// Pin 13 has an LED connected on most Arduino boards.
-// give it a name:
+// pin 13 has an LED connected on most Arduino boards
 int led = 13;
 
 // the setup routine runs once when you press reset:
@@ -15,11 +14,3 @@ void loop() {
   digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
   delay(1000);               // wait for a second
 }
-
-/*
-Exercises:
-Change delay
-Another LED
-Change pattern of blinks (blink-blink-wait, blink-blink-wait)
-*/
-

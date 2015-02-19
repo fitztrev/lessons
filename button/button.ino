@@ -1,5 +1,4 @@
-// constants won't change. They're used here to
-// set pin numbers:
+// set our pin numbers
 const int buttonPin = 2;     // the number of the pushbutton pin
 const int ledPin =  13;      // the number of the LED pin
 
@@ -28,9 +27,3 @@ void loop(){
     digitalWrite(ledPin, LOW);
   }
 }
-
-/* Exercises:
-Make LED light when button is pressed
-Make LED blink when button is pressed
-*/
-

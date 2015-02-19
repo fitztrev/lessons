@@ -1,9 +1,12 @@
 #include <Servo.h> 
 
-Servo myservo;  // create servo object to control a servo 
+// create servo object to control a servo 
+Servo myservo;
 
-int potpin = 0;  // analog pin used to connect the potentiometer
-int val;    // variable to read the value from the analog pin 
+// analog pin used to connect the potentiometer
+int potpin = 0;
+// variable to read the value from the analog pin 
+int val;
 
 void setup()
 {
@@ -17,9 +20,3 @@ void loop()
   myservo.write(val);                  // sets the servo position according to the scaled value 
   delay(15);                           // waits for the servo to get there 
 }
-
-/*
-Exercises:
-Control the servo programatically
-*/
-
