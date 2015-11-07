@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: Slides
-permalink: /slides/
+permalink: /lessons/slides/
 order: 0
 ---
 

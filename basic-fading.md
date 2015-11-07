@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fading
-permalink: /fading/
+permalink: /lessons/fading/
 order: 4
 circuit: http://123d.circuits.io/circuits/532726-basic-fading
 ---

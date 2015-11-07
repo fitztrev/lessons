@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Persistence of Vision
-permalink: /persistence-of-vision/
+permalink: /lessons/persistence-of-vision/
 order: 0
 circuit: 
 ---

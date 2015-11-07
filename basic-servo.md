@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Servo
-permalink: /servo/
+permalink: /lessons/servo/
 order: 5
 circuit: http://123d.circuits.io/circuits/532743-basic-servo
 ---

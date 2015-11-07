@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Analog Input #2
-permalink: /analog-input-2/
+permalink: /lessons/analog-input-2/
 order: 6
 circuit: http://123d.circuits.io/circuits/532769-basic-analog-input-2
 ---
