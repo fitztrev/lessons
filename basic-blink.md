@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blinking LED
-permalink: /lessons/blinking-led/
+permalink: /blinking-led/
 order: 1
 circuit: http://123d.circuits.io/circuits/530796-basic-blink
 ---

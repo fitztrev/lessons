@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RGB LED
-permalink: /lessons/rgb-led/
+permalink: /rgb-led/
 order: 7
 circuit: http://123d.circuits.io/circuits/532825-basic-rgb-led
 ---

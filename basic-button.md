@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Button
-permalink: /lessons/button/
+permalink: /button/
 order: 2
 circuit: http://123d.circuits.io/circuits/531021-basic-button
 ---

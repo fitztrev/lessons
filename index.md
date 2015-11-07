@@ -11,7 +11,7 @@ layout: default
 {% if page.order == 0 %}{% continue %}{% endif %}
 {% if page.title %}
 
-1. [{{ page.title }}]({{ page.url }})
+1. [{{ page.title }}](/lessons{{ page.url }})
 
 {% endif %}
 {% endfor %}
